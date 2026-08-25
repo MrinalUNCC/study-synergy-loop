@@ -116,6 +116,9 @@
     "vite": "^5.4.1",
     "vitest": "^0.34.6"
   },
+  "overrides": {
+    "js-yaml": "^4.3.1"
+  },
   "description": "A modern learning platform with personalized AI-powered course recommendations, free course suggestions, and productivity tools.",
   "main": "eslint.config.js",
   "repository": {
